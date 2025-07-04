@@ -1,0 +1,24 @@
+p{
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding: 20px;
+}
+ul{
+    font-size: xx-large;
+    font-variant: initial;
+    padding-right: 50;
+}
+h3{
+    text-align: center;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+ol{
+    font-size: 50px;
+    padding: 20%;
+}
+.class{
+    background-color: crimson;
+}
